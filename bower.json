@@ -1,0 +1,8 @@
+{
+    "name": "jQuery-Facebook-Photo-Selector",
+    "version": "1.0.2",
+    "main": ["csphotoselector.js","csphotoselector.css"],
+    "dependencies": {
+        "jquery": "*"
+    }
+}
